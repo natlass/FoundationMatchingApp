@@ -1,4 +1,4 @@
-## A beauty app utilizing Machine Learning, Python, Javascript, and HTML 
+## A beauty app utilizing Machine Learning, Python, Javascript, MongoDB, and HTML 
 
 
 ### Topic and Rationale:
